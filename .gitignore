@@ -1,0 +1,8 @@
+.git/
+*svn*
+*.bak*
+*.log*
+*.tmp*
+*.temp*
+.DS_Store
+**/.DS_Store

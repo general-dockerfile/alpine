@@ -1,0 +1,7 @@
+#
+
+bin
+*.bak*
+**/*.bak*
+.gitignore
+README.md

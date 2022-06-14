@@ -1,0 +1,10 @@
+/var/log/crond/*.log {
+    copytruncate
+    daily
+    rotate 365
+    missingok
+    ifempty
+    nocompress
+    dateext
+    dateformat .%Y%m%d
+}
